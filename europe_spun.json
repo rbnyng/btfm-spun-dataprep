@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Europe Bounding Box"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -61.73166667,
+              16.17833333
+            ],
+            [
+              90.9875,
+              16.17833333
+            ],
+            [
+              90.9875,
+              78.2
+            ],
+            [
+              -61.73166667,
+              78.2
+            ],
+            [
+              -61.73166667,
+              16.17833333
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
